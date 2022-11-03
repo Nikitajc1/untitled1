@@ -1,6 +1,6 @@
 public class Main2 {
     public static void main(String[] aargs) {
-        int income = 7800;
+        int income = 70000;
         int spending = 100000;
 
         int tax = income * 6 / 100;
